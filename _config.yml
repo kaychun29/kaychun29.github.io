@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Kayla Chun"
   avatar : "/assets/images/kchun_headshot.png"
-  bio    : "Cat dad, rock climber, and grad student exploring arts in their spare time."
+  bio    : "Cat dad, rock climber, and grad student exploring nature and art in their spare time."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
