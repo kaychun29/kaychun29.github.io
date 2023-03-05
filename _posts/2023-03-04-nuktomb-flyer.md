@@ -7,6 +7,6 @@ tags:
   - graphic design is my passsion
   - art
 ---
-![NukTombDCFlyer](/assets/DCFlyer.png)
+![NukTombDCFlyer](/assets/images/DCFlyer.png)
 
 A flyer I helped make for an upcoming Nuclear Tomb show, long live weirdo thrash uwu.
