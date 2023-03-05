@@ -7,5 +7,7 @@ tags:
   - graphic design is my passsion
   - art
 ---
-![NuclearTomb](/assets/DCFlyer.png)
+-url: /assets/DCFlyer.png
+ image_path: /assets/DCFlyer.png
+ alt: "Nuclear Tomb Runaway Flyer"
 A flyer I helped make for an upcoming Nuclear Tomb show, long live weirdo thrash uwu.
