@@ -9,6 +9,6 @@ tags:
   -gordo
   -cat
 ---
-![Gordo cat greeting card](/assets/images/gordo greeting card.png)
+![Gordo cat greeting card](assets/images/gordo greeting card.png)
 
-A lovely greeting card featuring my cat Gordo.
+A greeting card featuring my lovely cat Gordo.
