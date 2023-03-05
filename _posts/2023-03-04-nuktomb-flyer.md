@@ -4,7 +4,7 @@ last_modified_at: 2023-03-04
 categories:
   - Blog
 tags:
-  - graphic design is my passsion
+  - graphic design is my passion
   - art
 ---
 ![NukTombDCFlyer](/assets/images/DCFlyer.png)
