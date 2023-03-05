@@ -1,6 +1,6 @@
 ---
-layout: default
 title: "Gig Flyer"
+last_modified_at: 2023-03-04
 categories:
   - Blog
 tags:
