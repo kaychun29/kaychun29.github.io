@@ -65,6 +65,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/luh.chunk"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?user=yA2CxYAAAAAJ&hl=en&oi=ao"
 
 footer:
   links:
