@@ -1,5 +1,5 @@
 ---
-title: Gordo Greeting 1
+title: Gordo Greetings
 last_modified_at: 2023-03-04
 categories:
   - Blog
